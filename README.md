@@ -1,7 +1,17 @@
+```c++
+cout << "Hello World!\n";
+```
+
+
 ### Hi there 
-these are some of the projects I worked or am currently working on
+# These are some of the projects I worked or am currently working on
+
 
 ![alt graph app](https://github.com/meabefir/meabefir/blob/master/images/graph_app_1.png?raw=true)
+
+
+
+
 
 <!--
 **meabefir/meabefir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
