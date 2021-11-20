@@ -3,7 +3,8 @@
 
 ## Table of contents
 **[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
-**[Splay Tree Visualizer](#splay-tree-visualizer)**
+**[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
+**[NFA To Regex](#nfa-to-regex)**
 
 ## Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
@@ -22,4 +23,11 @@ https://user-images.githubusercontent.com/58290933/142741489-04b280b7-b708-4676-
 
 ![splay1](https://github.com/meabefir/meabefir/blob/master/images/splay_tree_1.png?raw=true)
 ![splay2](https://github.com/meabefir/meabefir/blob/master/images/splay_tree_2.png?raw=true)
+**[Back to top](#table-of-contents)**
+
+
+## NFA To Regex
+Allows the user to create a non deterministic finite automata and obtain its equivalent regex expression!
+
+![splay1](https://github.com/meabefir/meabefir/blob/master/images/nfa_1.png?raw=true)
 **[Back to top](#table-of-contents)**
