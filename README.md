@@ -1,7 +1,7 @@
 
 # `cout << "Hello World!\n";` 
 
-## Table of contents ##
+## Table of contents
 **[Cpp Projects](#cpp-projects)**</br>
 + **[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
 + **[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
