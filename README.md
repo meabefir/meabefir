@@ -129,6 +129,7 @@ https://user-images.githubusercontent.com/58290933/142758243-16432adb-154d-4b95-
 </br>
 
 
+<code><img height="50" src="https://user-images.githubusercontent.com/58290933/142760035-ee94155d-f4ac-4e8a-8384-eb32697a6df8.png"></code>
 ## Frontend Projects
 
 Small frontend apps I created while learning HTML, CSS and Javascript</br>
