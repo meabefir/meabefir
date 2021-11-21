@@ -2,14 +2,17 @@
 # `cout << "Hello World!\n";` 
 
 ## Table of contents ##
-**[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
-**[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
-**[NFA To Regex](#nfa-to-regex)**</br>
+**[C++ Projects](#c++-projects)**</br>
++ **[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
++ **[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
++ **[NFA To Regex](#nfa-to-regex)**</br>
 ---
 **[Game Projects](#game-projects)**</br>
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
+
+## C++ Projects
 
 ## Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
