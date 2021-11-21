@@ -81,9 +81,10 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 </br>
 
 
-
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
 ## Game Projects
-
 
 ### Multiplayer Board Game Adaptation
 
