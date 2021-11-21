@@ -73,8 +73,8 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 ## Multiplayer Board Game Adaptation
 
 Learned networking concepts while turning a real life board game into an actual game you can play with your friends.
+</br>
 Created using the Godot Game Engine
-[repo link](https://github.com/meabefir/concordia-client)
-[demo video](https://www.youtube.com/watch?v=v6RstqHH5os)
+[repo link](https://github.com/meabefir/concordia-client) ++ [demo video](https://www.youtube.com/watch?v=v6RstqHH5os)
 
 <img src="https://github.com/meabefir/meabefir/blob/master/images/concordia_1.png">
