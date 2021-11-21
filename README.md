@@ -2,7 +2,7 @@
 # `cout << "Hello World!\n";` 
 
 ## Table of contents
-**[Cpp Projects](#cpp-projects)**</br>
+**[C++ Projects](#cpp)**</br>
 + **[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
 + **[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
 + **[NFA To Regex](#nfa-to-regex)**</br>
@@ -12,7 +12,7 @@
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
 
-## Cpp Projects <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+## C++ Projects {#cpp} <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 ### Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
