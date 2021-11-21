@@ -8,6 +8,7 @@
 ---
 **[Game Projects](#game-projects)**</br>
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
++ **[Escape Room Game](#escape-room-game)**
 
 ## Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
@@ -78,3 +79,23 @@ Created using the Godot Game Engine
 [repo link](https://github.com/meabefir/concordia-client) ++ [demo video](https://www.youtube.com/watch?v=v6RstqHH5os)
 
 <img src="https://github.com/meabefir/meabefir/blob/master/images/concordia_1.png">
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
+
+## Escape Room Game
+Implemented some lock mechanics as well as a level to test them out.
+[repo link](https://github.com/meabefir/escape)
+
+https://user-images.githubusercontent.com/58290933/142757887-4eb93b99-31d3-42ba-817d-3f0683852d26.mp4
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
