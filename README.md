@@ -12,9 +12,9 @@
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
 
-## Cpp Projects
+## Cpp Projects <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
-## Graph Algorithms Visualizer
+### Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
 [repo link](https://github.com/meabefir/graph-viz)
 
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/58290933/142741713-8bef4612-67ef-4772-
 
 
 
-## Splay Tree Visualizer
+### Splay Tree Visualizer
 Allows the user to insert, delete, findNext and findPred on a splay tree data structure!
 [repo link](https://github.com/meabefir/splay-tree)
 
@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/58290933/142741489-04b280b7-b708-4676-
 
 
 
-## NFA To Regex
+### NFA To Regex
 Allows the user to create a non deterministic finite automata and obtain its equivalent regex expression!
 [repo link](https://github.com/meabefir/regex)
 
@@ -75,7 +75,7 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 ## Game Projects
 
 
-## Multiplayer Board Game Adaptation
+### Multiplayer Board Game Adaptation
 
 Learned networking concepts while turning a real life board game into an actual game you can play with your friends.
 </br>
@@ -91,7 +91,7 @@ Created using the Godot Game Engine
 </br>
 
 
-## Escape Room Game
+### Escape Room Game
 Implemented some lock mechanics as well as a level to test them out.
 [repo link](https://github.com/meabefir/escape)
 
@@ -103,7 +103,7 @@ https://user-images.githubusercontent.com/58290933/142757887-4eb93b99-31d3-42ba-
 </br>
 </br>
 
-## Tower Defense Game
+### Tower Defense Game
 Implemented classic tower defense game mechanics while creating robust systems for level, enemies and towers creation.
 [repo link](https://github.com/meabefir/towerz)
 
