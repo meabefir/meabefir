@@ -1,11 +1,13 @@
 
 # `cout << "Hello World!\n";` 
 
-## Table of contents
+## Table of contents ##
 **[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
 **[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
-**[NFA To Regex](#nfa-to-regex)**
-
+**[NFA To Regex](#nfa-to-regex)**</br>
+---
+**[Game Projects](#game-projects)**</br>
++ **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 
 ## Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
@@ -58,3 +60,21 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 <img src="https://github.com/meabefir/meabefir/blob/master/images/nfa_1.png">
 
 **[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
+
+
+## Game Projects
+
+
+## Multiplayer Board Game Adaptation
+
+Learned networking concepts while turning a real life board game into an actual game you can play with your friends.
+Created using the Godot Game Engine
+[repo link](https://github.com/meabefir/concordia-client)
+[demo video](https://www.youtube.com/watch?v=v6RstqHH5os)
+
+<img src="https://github.com/meabefir/meabefir/blob/master/images/concordia_1.png">
