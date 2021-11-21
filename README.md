@@ -9,6 +9,7 @@
 **[Game Projects](#game-projects)**</br>
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
++ **[Tower Defense Game](#tower-defense-game)**
 
 ## Graph Algorithms Visualizer
 Allows the user to create, modify and test specific algorithms on graphs!
@@ -92,6 +93,18 @@ Implemented some lock mechanics as well as a level to test them out.
 [repo link](https://github.com/meabefir/escape)
 
 https://user-images.githubusercontent.com/58290933/142757887-4eb93b99-31d3-42ba-817d-3f0683852d26.mp4
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
+## Tower Defense Game
+Implemented classic tower defense game mechanics while creating robust systems for level, enemies and towers creation.
+[repo link](https://github.com/meabefir/towerz)
+
+https://user-images.githubusercontent.com/58290933/142758243-16432adb-154d-4b95-95e5-2ef280c3007c.mp4
 
 **[Back to top](#table-of-contents)**
 </br>
