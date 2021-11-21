@@ -11,6 +11,8 @@
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
+---
+**[Frontend Projects](#frontend-projects)**</br>
 
 </br>
 </br>
@@ -126,3 +128,16 @@ https://user-images.githubusercontent.com/58290933/142758243-16432adb-154d-4b95-
 </br>
 </br>
 
+
+## Frontend Projects
+
+Small frontend apps I created while learning HTML, CSS and Javascript</br>
+[repo link](https://github.com/meabefir/front_end)
+
+<img src="https://github.com/meabefir/meabefir/blob/master/images/frontend.jpg">
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
