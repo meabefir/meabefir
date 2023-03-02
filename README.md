@@ -7,6 +7,9 @@
 + **[Splay Tree Visualizer](#splay-tree-visualizer)**</br>
 + **[NFA To Regex](#nfa-to-regex)**</br>
 ---
+**[Java Projects](#java-projects)**</br>
++ **[OpenGL Bowling Game](#bowling-gl)**</br>
+---
 **[Game Projects](#game-projects)**</br>
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
@@ -81,6 +84,25 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 </br>
 </br>
 </br>
+
+
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
+## Java Projects
+
+### OpenGL Bowling Game
+Basic bowling game implemented in java using OpenGL graphics library
+[repo link](https://github.com/meabefir/bowling_java_ogl)
+
+https://user-images.githubusercontent.com/58290933/222512940-a6c1ff2e-150b-47b2-b0b3-9ceef7164503.mp4
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
 
 
 <code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
