@@ -10,6 +10,9 @@
 **[Java Projects](#java-projects)**</br>
 + **[OpenGL Bowling Game](#bowling-gl)**</br>
 ---
+**[Python Projects](#python-projects)**</br>
++ **[PyGame Platform Shooter](#pygame-platform-shooter)**</br>
+---
 **[Game Projects](#game-projects)**</br>
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
@@ -91,8 +94,8 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 <code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
 ## Java Projects
 
-### OpenGL Bowling Game
-Basic bowling game implemented in java using OpenGL graphics library
+### Bowling GL
+Basic OpenGL Bowling Game implemented in java using OpenGL graphics library
 [repo link](https://github.com/meabefir/bowling_java_ogl)
 
 https://user-images.githubusercontent.com/58290933/222512940-a6c1ff2e-150b-47b2-b0b3-9ceef7164503.mp4
@@ -103,6 +106,27 @@ https://user-images.githubusercontent.com/58290933/222512940-a6c1ff2e-150b-47b2-
 </br>
 </br>
 
+
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
+## Python Projects
+
+### PyGame Platform Shooter
+Platformer shooter game implemented from scratch in PyGame. It features a fully functional menu, connection to a SQLite database, key bindings and multiple levels.
+[repo link](https://github.com/meabefir/pygame_platformer_shooter)
+
+
+![pygame1](https://user-images.githubusercontent.com/58290933/227970371-30197cc9-ee4e-45f2-bc1a-bce44da6f7d5.png)
+
+https://user-images.githubusercontent.com/58290933/227970307-95398e0f-43b1-40c6-977c-8358ee284015.mp4
+
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
 
 
 <code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
