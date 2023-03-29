@@ -18,9 +18,11 @@
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
 ---
-**[OpenGL Projects](#opengl-projects)**</br>
+**[OpenGL Projects](#opengl-projects)**
+
 ---
-**[Frontend Projects](#frontend-projects)**</br>
+
+**[Frontend Projects](#frontend-projects)**
 
 </br>
 </br>
