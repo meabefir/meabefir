@@ -18,6 +18,8 @@
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
 ---
+**[OpenGL Projects](#opengl-projects)**</br>
+---
 **[Frontend Projects](#frontend-projects)**</br>
 
 </br>
@@ -27,9 +29,7 @@
 </br>
 </br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 ## Cpp Projects
 
 ### Graph Algorithms Visualizer
@@ -89,9 +89,7 @@ Allows the user to create a non deterministic finite automata and obtain its equ
 </br>
 
 
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/58290933/222513861-4f26d016-2fdc-4bb2-b4ae-438f9612a41c.png"/></code>
 ## Java Projects
 
 ### Bowling GL
@@ -107,9 +105,7 @@ https://user-images.githubusercontent.com/58290933/222512940-a6c1ff2e-150b-47b2-
 </br>
 
 
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
 ## Python Projects
 
 ### PyGame Platform Shooter
@@ -129,9 +125,7 @@ https://user-images.githubusercontent.com/58290933/227970307-95398e0f-43b1-40c6-
 </br>
 
 
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/58290933/142758716-490627a9-a185-4ba2-9bd9-62b46b515f0f.png"></code>
 ## Game Projects
 
 ### Multiplayer Board Game Adaptation
@@ -173,6 +167,19 @@ https://user-images.githubusercontent.com/58290933/142758243-16432adb-154d-4b95-
 </br>
 </br>
 </br>
+
+<code><img height="50" src="https://user-images.githubusercontent.com/58290933/228458411-670c20ef-783d-45d7-9244-866ff77f4a95.png"></code>
+## OpenGL Projects
+
+![gl1](https://user-images.githubusercontent.com/58290933/228459292-05b41d66-aa17-4488-be86-44d88fe5a497.png)
+![gl2](https://user-images.githubusercontent.com/58290933/228459307-fa57cd4d-92d6-484f-9dfe-539093e3b0d5.png)
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
 
 
 <code><img height="50" src="https://user-images.githubusercontent.com/58290933/142760035-ee94155d-f4ac-4e8a-8384-eb32697a6df8.png"></code>
