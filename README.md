@@ -1,5 +1,7 @@
 
-# `cout << "Hello World!\n";` 
+![sk2](https://github.com/meabefir/meabefir/assets/58290933/0cc08d0c-ee1e-43e5-9b56-77f4308029d5)
+![tooth alpha 6](https://github.com/meabefir/meabefir/assets/58290933/1ddbf1f8-a175-4a1b-a2b0-139ee37a8d2c)
+![lungs](https://github.com/meabefir/meabefir/assets/58290933/7316372a-1e42-4219-bd86-aa8c8381a70c)
 
 ## Table of contents
 
