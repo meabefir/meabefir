@@ -19,6 +19,7 @@
 + **[OpenGL Bowling Game](#bowling-gl)**</br>
 ---
 **[Python Projects](#python-projects)**</br>
++ **[Lua Nodes Visual Scripting](#lua-nodes-visual-scripting)**</br>
 + **[PyGame Platform Shooter](#pygame-platform-shooter)**</br>
 ---
 **[Game Projects](#game-projects)**</br>
@@ -115,15 +116,16 @@ https://user-images.githubusercontent.com/58290933/222512940-a6c1ff2e-150b-47b2-
 <code><img height="50" src="https://user-images.githubusercontent.com/58290933/227968097-6b671c67-2d3c-415d-b477-8f20076cba2d.png"/></code>
 ## Python Projects
 
+### Lua Nodes Visual Scripting
+Node Graph based visual scripting tool for Lua
+![ua](https://github.com/meabefir/meabefir/assets/58290933/ec8155f6-8931-4eb8-b0d5-60bde38b57fe)
+https://github.com/meabefir/meabefir/assets/58290933/c9407a03-33ba-434b-88b3-44b6580df736
+
 ### PyGame Platform Shooter
 Platformer shooter game implemented from scratch in PyGame. It features a fully functional menu, connection to a SQLite database, key bindings and multiple levels.
 [repo link](https://github.com/meabefir/pygame_platformer_shooter)
-
-
 ![pygame1](https://user-images.githubusercontent.com/58290933/227970371-30197cc9-ee4e-45f2-bc1a-bce44da6f7d5.png)
-
 https://user-images.githubusercontent.com/58290933/227970307-95398e0f-43b1-40c6-977c-8358ee284015.mp4
-
 
 **[Back to top](#table-of-contents)**
 </br>
@@ -175,7 +177,7 @@ https://user-images.githubusercontent.com/58290933/142758243-16432adb-154d-4b95-
 </br>
 </br>
 
-
+  
 
 
 <code><img height="50" src="https://user-images.githubusercontent.com/58290933/228458411-670c20ef-783d-45d7-9244-866ff77f4a95.png"></code>
