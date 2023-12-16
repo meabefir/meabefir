@@ -185,7 +185,11 @@ https://user-images.githubusercontent.com/58290933/142758243-16432adb-154d-4b95-
 <code><img height="50" src="https://user-images.githubusercontent.com/58290933/228458411-670c20ef-783d-45d7-9244-866ff77f4a95.png"></code>
 ## OpenGL Projects
 
+Apocalyptic city - complex 3d scene with skeletal animations, cubemapping and dynamic lights.
 ![skogl](https://github.com/meabefir/meabefir/assets/58290933/ab856ddc-4684-4048-bcab-352f8103e9b9)
+
+Traffic simulation - simple traffic simulation; feeatures model loading, dynamic lighting and custom logic for the traffic lights and lanes.
+![ogl_traffic](https://github.com/meabefir/meabefir/assets/58290933/436bb5b1-5fe2-4f35-967f-7508184029e4)
 
 https://user-images.githubusercontent.com/58290933/228685034-9fd67847-d72d-41fc-8abe-a8961e29f50f.mp4
 
