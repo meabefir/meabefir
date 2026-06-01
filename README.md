@@ -23,6 +23,7 @@
 + **[PyGame Platform Shooter](#pygame-platform-shooter)**</br>
 ---
 **[Game Projects](#game-projects)**</br>
++ **[Train Bandits Prototype](#train-bandits)**
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
@@ -153,6 +154,19 @@ Created using the Godot Game Engine
 </br>
 </br>
 </br>
+
+
+### Train Bandits
+
+https://github.com/user-attachments/assets/c04d6105-669b-45bd-a97d-fd6f7204841d
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
+
 
 
 ### Escape Room Game
