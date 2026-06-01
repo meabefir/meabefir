@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/bb5a5dc3-70cf-4b32-b3c0-7f3f098ce817
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github.com/meabefir/meabefir/assets/58290933/0cc08d0c-ee1e-43e5-9b56-77f4308029d5" width="300">
   <img src="https://github.com/meabefir/meabefir/assets/58290933/7316372a-1e42-4219-bd86-aa8c8381a70c" width="170">
@@ -10,6 +12,7 @@
 
 **[Game Projects](#game-projects)**</br>
 + **[Train Bandits Prototype](#train-bandits)**
++ **[Character Customization](#character-customization)**
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
 + **[Tower Defense Game](#tower-defense-game)**
@@ -154,6 +157,18 @@ Created using the Godot Game Engine
 </br>
 </br>
 </br>
+
+
+### Character Customization
+
+https://github.com/user-attachments/assets/ee464f37-9f18-4644-838c-bee7b1e84226
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
 
 
 ### Train Bandits
