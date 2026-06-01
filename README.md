@@ -9,6 +9,7 @@
 
 **[Game Projects](#game-projects)**</br>
 + **[Train Bandits Prototype](#train-bandits)**
++ **[3D Platformer](#3d-platformer)**
 + **[Character Customization](#character-customization)**
 + **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
 + **[Escape Room Game](#escape-room-game)**
@@ -177,6 +178,17 @@ https://github.com/user-attachments/assets/c04d6105-669b-45bd-a97d-fd6f7204841d
 </br>
 </br>
 </br>
+
+### 3D Platformer
+https://github.com/user-attachments/assets/c7a4795e-1788-482b-ad79-99028e2ceb38
+
+
+**[Back to top](#table-of-contents)**
+</br>
+</br>
+</br>
+</br>
+
 
 
 
