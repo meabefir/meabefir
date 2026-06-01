@@ -7,8 +7,14 @@
 
 ## Table of contents
 
-**[OpenGL Projects](#opengl-projects)**
 
+**[Game Projects](#game-projects)**</br>
++ **[Train Bandits Prototype](#train-bandits)**
++ **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
++ **[Escape Room Game](#escape-room-game)**
++ **[Tower Defense Game](#tower-defense-game)**
+---
+**[OpenGL Projects](#opengl-projects)**
 ---
 **[Cpp Projects](#cpp-projects)**</br>
 + **[Graph Algorithms Visualizer](#graph-algorithms-visualizer)**</br>
@@ -21,12 +27,6 @@
 **[Python Projects](#python-projects)**</br>
 + **[Lua Nodes Visual Scripting](#lua-nodes-visual-scripting)**</br>
 + **[PyGame Platform Shooter](#pygame-platform-shooter)**</br>
----
-**[Game Projects](#game-projects)**</br>
-+ **[Train Bandits Prototype](#train-bandits)**
-+ **[Multiplayer Board Game Adaptation](#multiplayer-board-game-adaptation)**
-+ **[Escape Room Game](#escape-room-game)**
-+ **[Tower Defense Game](#tower-defense-game)**
 ---
 
 **[Frontend Projects](#frontend-projects)**
